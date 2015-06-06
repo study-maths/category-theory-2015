@@ -1,5 +1,0 @@
-* Category Theory Study Group 2015
-
-[[https://gitter.im/study-maths/category-theory-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][[[https://badges.gitter.im/Join%20Chat.svg]]]]
-
-http://cat.boffosocko.com/
